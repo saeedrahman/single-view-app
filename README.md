@@ -1,5 +1,5 @@
 # Single View App Project Repo
-This is the starter project repo for grade 9 students. The repo contains an Xcode template that has been setup with all the storyboards, view controllers and class files needed. This template was developed in Xcode 11.2 (11B52), and is distributed through GitHub Classroom to Grade 9 students.
+This is the single view starter project repo for grade 9 students. The repo contains an Xcode template that has been setup with all the storyboards, view controllers and class files needed. This template was developed in Xcode 11.2 (11B52), and is distributed through GitHub Classroom to Grade 9 students.
 
 ## Getting Started
 
