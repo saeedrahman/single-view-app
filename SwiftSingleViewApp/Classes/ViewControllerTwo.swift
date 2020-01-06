@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewControllerTwo.swift
 //  SwiftSingleViewApp
 //
 //  Created by Saeed Rahman on 6/1/2020.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewControllerTwo: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
-
 }
-
